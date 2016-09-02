@@ -6,6 +6,8 @@ Feito para testar a integração com a API do Acelerato: http://www.acelerato.co
 
 Cria um icone do acelerato no tray onde você pode acessar tickets de um projeto e receber alertas quando novos tickets são criados.
 
+![](http://i.imgur.com/YrhNrzp.gif)
+
 ## Dev
 
 ```
